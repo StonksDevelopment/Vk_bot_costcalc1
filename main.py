@@ -4,7 +4,7 @@ import requests
 from vk_api.longpoll import VkLongPoll, VkEventType
 
 
-token = "vk1.a.jJteSNjDo-DWAVJiGb37zSF3DumRdjMGm0SCQ7PZYbAHPTwuIuCRRjSrNsQX2Je-Gd83OTgTfNFEwt5CMee-jmJn2J38OFb0dJVrLPy9RxKUO9RS4J-8nDL6WwQP3BUTpo82AFSPQcyis5ze_MkYbzOasFtMGgeASJexd2cVlUZAt4TWtWSm3cNTMlsdCqSUMaFnRIjipHMIBY14VK0k_g"
+token = ""
 URL = "https://www.banki.ru/products/currency/cny/"
 
 vk_session = vk_api.VkApi(token=token)
